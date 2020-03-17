@@ -15,3 +15,5 @@
 
 ![random_forest_from_scratch_3](https://github.com/NoriKaneshige/random_forest_from_scratch/blob/master/random_forest_from_scratch_3.png)
 
+:+1: :sparkles: :camel: :tada: 
+:rocket: :metal: :octocat:
